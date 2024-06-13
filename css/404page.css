@@ -1,0 +1,195 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+/* #section1{
+    height: 90vh;
+    width: 100%;
+    background-color: rgb(251, 247, 247);
+    margin: 2px;
+  
+
+} */
+
+
+
+
+.insurance-billing {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .insurance-billing h2 {
+    text-align: center;
+    color: #333;
+  }
+  
+  .insurance-info, .billing-info {
+    margin-bottom: 20px;
+  }
+  
+  .insurance-info h3, .billing-info h3 {
+    color: #555;
+  }
+  
+  .insurance-info p, .billing-info p {
+    margin: 5px 0;
+  }
+
+
+
+  .appointment-scheduling {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .appointment-scheduling h2 {
+    text-align: center;
+    color: #333;
+  }
+  
+  .appointment-info, .schedule-appointment {
+    margin-bottom: 20px;
+  }
+  
+  .appointment-info h3, .schedule-appointment h3 {
+    color: #555;
+  }
+  
+  .appointment-info p {
+    margin: 5px 0;
+  }
+  
+  .schedule-appointment form {
+    display: grid;
+    gap: 10px;
+  }
+  
+  .schedule-appointment label {
+    font-weight: bold;
+  }
+  
+  .schedule-appointment input[type="date"],
+  .schedule-appointment input[type="time"],
+  .schedule-appointment select {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .schedule-appointment button[type="submit"] {
+    padding: 10px 20px;
+    background-color: #1a76d1;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .schedule-appointment button[type="submit"]:hover {
+    background-color: #1a76d1;
+  }
+
+/* 
+
+  .patient-forms h2 {
+    text-align: center;
+    color: #333;
+  }
+  
+  .form-list {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .form-item {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+  }
+  
+  .form-item h3 {
+    color: #555;
+  }
+  
+  .form-item p {
+    margin: 5px 0;
+  }
+  
+  .form-item a {
+    display: inline-block;
+    padding: 5px 10px;
+    background-color: #4CAF50;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+  }
+  
+  .form-item a:hover {
+    background-color: #45a049;
+  }
+ */
+
+
+  
+.health-education {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .health-education h2 {
+    text-align: center;
+    color: #333;
+  }
+  
+  .education-resources {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .resource {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+  }
+  
+  .resource h3 {
+    color: #555;
+  }
+  
+  .resource p {
+    margin: 5px 0;
+  }
+  
+  .resource a {
+    display: inline-block;
+    padding: 5px 10px;
+    background-color: #1a76d1;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+  }
+  
+  .resource a:hover {
+    background-color: #1a76d1;
+  }
